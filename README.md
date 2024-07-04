@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Imon+Chakraborty&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Imon+Chakraborty&width=1000&height=200)
 
 
 <h1 align=center>💫 About Me:</h1>
