@@ -8,9 +8,11 @@
         .st3{fill:#CE3262;}
         .st4{fill:#00ACD7;}
         .st5{fill:#FFFFFF;}
-        .border {fill:none;stroke:black;stroke-width:4px;}
+        .border {fill:none;stroke:black;stroke-width:8px;}
     </style>
-    <!-- Add a border rectangle with rounded corners -->
+    <!-- Background rectangle with white fill -->
+    <rect x="0" y="0" width="250.5" height="225" fill="white" rx="15" ry="15"/>
+    <!-- Border rectangle with rounded corners -->
     <rect x="-2" y="-2" width="258.5" height="229" class="border" rx="15" ry="15"/>
     <g>
         <g>
