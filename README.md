@@ -5,7 +5,7 @@
 <br>
 <p align=center><a href="https://www.linkedin.com/in/imon-chakraborty-3a757a279/"><img height="34" src="items/LinkedIn.svg" alt="LinkedIn"></a>&nbsp;&nbsp;</p>
 
-<div align=center><image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=20&color=FFFFFF&center=true&width=200&height=50&repeat=false&lines=I+use+Arch+BTW"></image></div>
+<div align=center><image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=20&color=FFFFFF&center=true&width=200&height=50&repeat=true&lines=I+use+Arch+BTW"></image></div>
 
 
 <h2 align=left>💻 Tech Stack:</h2>
