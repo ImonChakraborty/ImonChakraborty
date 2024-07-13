@@ -33,6 +33,7 @@
 
 <h2>IoT:&nbsp;&nbsp;
     <img src="items/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
+    <img src="items/espressif.svg" height="34" alt="Espressif" align=right>&nbsp;&nbsp;
 </h2>
 
 <!--
