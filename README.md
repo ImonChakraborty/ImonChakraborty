@@ -19,7 +19,7 @@
 </h2>
 
 <h2>Database:&nbsp;&nbsp;
-    <img src="items/mysql.svg" height="34" alt="mysql" align=right>&nbsp;&nbsp;
+    <img src="items/Mysql.svg" height="34" alt="mysql" align=right>&nbsp;&nbsp;
 </h2>
 
 <h2>Cloud:&nbsp;&nbsp;
