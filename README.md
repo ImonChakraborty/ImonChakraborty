@@ -11,7 +11,7 @@
 <h2>Languages:&nbsp;&nbsp;
     <img src="items/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
     <img src="items/c.svg" height="34" alt="c" align=right>&nbsp;&nbsp;
-    <img src="items/Go.svg" height="34" alt="go" align=right>&nbsp;&nbsp;
+    <img src="items/go.svg" height="34" alt="go" align=right>&nbsp;&nbsp;
 </h2>
 
 <h2>UID/UXD:&nbsp;&nbsp;
