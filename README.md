@@ -47,9 +47,9 @@
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ImonChakraborty&theme=windows-dark&hide_border=true" alt="Streak Stats">
     <br>
     <p></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ImonChakraborty&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ImonChakraborty&show_icons=true&locale=en&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
     &nbsp;&nbsp;
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ImonChakraborty&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="194.8px" alt="Language Stats">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ImonChakraborty&show_icons=true&locale=en&theme=github_dark&hide_border=true&layout=compact&langs_count=10" alt="Language Stats">
 </div>
 <br>
 
@@ -62,8 +62,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImonChakraborty&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImonChakraborty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-
-<h2 align=center>🏆 GitHub Trophies</h2>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ImonChakraborty&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)
+<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=ImonChakraborty&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
