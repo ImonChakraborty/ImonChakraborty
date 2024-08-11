@@ -24,34 +24,43 @@
 
 
 <br>
-<h2>Languages:&nbsp;&nbsp;
-    <img src="items/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
-    <img src="items/c.svg" height="34" alt="c" align=right>&nbsp;&nbsp;
-    <img src="items/go.svg" height="34" alt="go" align=right>&nbsp;&nbsp;
-    <img src="items/shell.svg" height="34" alt="shell" align=right>&nbsp;&nbsp;
-</h2>
+<h2 align=center>Languages</h2>
+<div align=center>
+    <img src="items/python.svg" height="34" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/c.svg" height="34" alt="c">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/go.svg" height="34" alt="go">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/shell.svg" height="34" alt="shell">
+</div>
 
-<h2>UID/UXD:&nbsp;&nbsp;
-    <img src="items/figma.svg" height="34" alt="figma" align=right>&nbsp;&nbsp;
-</h2>
+<h2 align=center>UID/UXD</h2>
+<div align=center>
+    <img src="items/figma.svg" height="34" alt="figma">
+</div>
 
-<h2>Database:&nbsp;&nbsp;
-    <img src="items/Mysql.svg" height="34" alt="mysql" align=right>&nbsp;&nbsp;
-</h2>
+<h2 align=center>Database</h2>
+<div align=center>
+    <img src="items/Mysql.svg" height="34" alt="mysql">
+</div>
 
-<h2>Cloud:&nbsp;&nbsp;
-    <img src="items/gcloud.svg" height="34" alt="googlecloud" align=right>&nbsp;&nbsp;
-</h2>
+<h2 align=center>Cloud</h2>
+<div align=center>
+    <img src="items/gcloud.svg" height="34" alt="googlecloud">
+</div>
 
-<h2>Devops:&nbsp;&nbsp;
-    <img src="items/git.svg" height="34" alt="git" align=right>&nbsp;&nbsp;
-    <img src="items/github.svg" height="34" alt="github" align=right>&nbsp;&nbsp;
-</h2>
+<h2 align=center>Devops</h2>
+<div align=center>
+    <img src="items/git.svg" height="34" alt="git">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/github.svg" height="34" alt="github">
+</div>
 
-<h2>IoT:&nbsp;&nbsp;
-    <img src="items/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
-    <img src="items/espressif.svg" height="34" alt="Espressif" align=right>&nbsp;&nbsp;
-</h2>
+<h2 align=center>IoT</h2>
+<div align=center>
+    <img src="items/arduino.svg" height="34" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/espressif.svg" height="34" alt="Espressif">
+</div>
+
+<br/>
+
 
 <!--
 <h2 align=left>💻 Tech Stack:</h2>
