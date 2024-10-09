@@ -19,7 +19,7 @@
 <br>
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ImonChakraborty&theme=react-dark&hide_border=false&grid=false&custom_title=Contribution%20graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ImonChakraborty&theme=react-dark&hide_border=true&grid=false&custom_title=Contribution%20graph)
 <br>
 
 
@@ -79,7 +79,7 @@
 
 <div align="center">
     
-![](https://github-trophies.vercel.app/?username=ImonChakraborty&title=MultiLanguage,LongTimeUser,NewUser,Organizations,Commits,PullRequest&no-frame=false&no-bg=true&margin-w=7&theme=discord)
+![](https://github-trophies.vercel.app/?username=ImonChakraborty&title=MultiLanguage,LongTimeUser,NewUser,Organizations,Commits,PullRequest&no-frame=true&no-bg=true&margin-w=7&theme=discord)
 </div>
 
 ---
