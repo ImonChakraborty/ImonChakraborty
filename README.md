@@ -19,7 +19,7 @@
 <br>
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ImonChakraborty&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ImonChakraborty&theme=react-dark&hide_border=false&grid=false&custom_title=Contribution%20graph)
 <br>
 
 
@@ -77,7 +77,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImonChakraborty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
-![](https://github-profile-trophy.vercel.app/?username=ImonChakraborty&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+    
+![](https://github-trophies.vercel.app/?username=ImonChakraborty&title=MultiLanguage,LongTimeUser,NewUser,Organizations,Commits,PullRequest&no-frame=false&no-bg=true&margin-w=7&theme=discord)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ImonChakraborty&icon=2&color=12)](https://visitcount.itsvg.in)
