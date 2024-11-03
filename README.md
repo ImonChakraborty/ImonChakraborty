@@ -14,7 +14,7 @@
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=ImonChakraborty&show_icons=true&locale=en&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
     &nbsp;&nbsp;
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ImonChakraborty&show_icons=true&locale=en&theme=github_dark&hide_border=true&layout=compact&langs_count=10" alt="Language Stats">
+    <img align=top src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImonChakraborty&langs_count=10&layout=compact&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Language Stats">
 </div>
 <br>
 
