@@ -20,9 +20,9 @@
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ImonChakraborty&theme=react-dark&hide_border=true&grid=false&custom_title=Contribution%20graph)
-<br>
+<be>
 
-
+<!--
 <br>
 <h2 align=center>Languages</h2>
 <div align=center>
@@ -60,7 +60,25 @@
 </div>
 
 <br/>
+-->
 
+
+<h2 align=center>Tech Stack</h2>
+<div align=center>
+    <img src="items/python.svg" height="34" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/c.svg" height="34" alt="c">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/go.svg" height="34" alt="go">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/shell.svg" height="34" alt="shell">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/figma.svg" height="34" alt="figma">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/Mysql.svg" height="34" alt="mysql">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/gcloud.svg" height="34" alt="googlecloud">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/git.svg" height="34" alt="git">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/github.svg" height="34" alt="github">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/arduino.svg" height="34" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/espressif.svg" height="34" alt="Espressif">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br/>
 
 <!--
 <h2 align=left>💻 Tech Stack:</h2>
