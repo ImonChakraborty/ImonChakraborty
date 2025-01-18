@@ -69,6 +69,7 @@
     <img src="items/c.svg" height="34" alt="c">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="items/go.svg" height="34" alt="go">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="items/shell.svg" height="34" alt="shell">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="items/Typescript.svg" height="34" alt="shell">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="items/figma.svg" height="34" alt="figma">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="items/Mysql.svg" height="34" alt="mysql">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="items/gcloud.svg" height="34" alt="googlecloud">&nbsp;&nbsp;&nbsp;&nbsp;
