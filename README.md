@@ -63,21 +63,29 @@
 -->
 
 
-<h2 align=center>Tech Stack</h2>
-<div align=center>
-    <img src="items/python.svg" height="34" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/c.svg" height="34" alt="c">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/go.svg" height="34" alt="go">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/shell.svg" height="34" alt="shell">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/Typescript.svg" height="34" alt="shell">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/figma.svg" height="34" alt="figma">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/Mysql.svg" height="34" alt="mysql">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/gcloud.svg" height="34" alt="googlecloud">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/git.svg" height="34" alt="git">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/github.svg" height="34" alt="github">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/arduino.svg" height="34" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="items/espressif.svg" height="34" alt="Espressif">&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</p>
+
 
 <br/>
 
