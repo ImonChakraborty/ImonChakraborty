@@ -1,6 +1,8 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Imon+Chakraborty&width=1000&height=200)
 
+<!--
 ![](https://github.com/ImonChakraborty/ImonChakraborty/assets/135951651/947b67ae-6c4b-4568-a297-daee84e69807)
+-->
 
 <br>
 <p align=center><a href="https://www.linkedin.com/in/imonchakraborty/"><img height="34" src="items/LinkedIn.svg" alt="LinkedIn"></a>&nbsp;&nbsp;</p>
